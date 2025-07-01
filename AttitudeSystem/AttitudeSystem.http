@@ -1,0 +1,6 @@
+@AttitudeSystem_HostAddress = http://localhost:5044
+
+GET {{AttitudeSystem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
